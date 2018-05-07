@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftStudy1/Main/Module/Home/Controller/HomeController.swift"
+            timestampString = "547092497.186383"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "setupViews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftStudy1/Utils/HttpClient/RequestTool.swift"
+            timestampString = "547092497.186969"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "get(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SwiftStudy1.RequestTool.get(url: Swift.String) -&gt; ()"
+                  moduleName = "SwiftStudy1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/syk/Desktop/%E4%B8%B4%E6%97%B6%E6%96%87%E4%BB%B6/SwiftStudy1/SwiftStudy1/Utils/HttpClient/RequestTool.swift"
+                  timestampString = "547092497.397074"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;SwiftStudy1.BaseResp&lt;SwiftStudy1.ResponseHeader&gt;&gt;) -&gt; () in static SwiftStudy1.RequestTool.get(url: Swift.String) -&gt; ()"
+                  moduleName = "SwiftStudy1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/syk/Desktop/%E4%B8%B4%E6%97%B6%E6%96%87%E4%BB%B6/SwiftStudy1/SwiftStudy1/Utils/HttpClient/RequestTool.swift"
+                  timestampString = "547092497.401495"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "311">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
